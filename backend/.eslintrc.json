@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "node": true,
+    "commonjs": true,
+    "mocha": true
+  },
+  "extends": ["eslint:recommended", "google"],
+  "rules": {}
+}
